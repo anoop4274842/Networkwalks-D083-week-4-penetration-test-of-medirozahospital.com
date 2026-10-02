@@ -35,7 +35,7 @@ This project documents a web application penetration testing assessment conducte
 | Gobuster | Directory enumeration               |
 | Nmap     | Port scanning and service detection |
 | Browser  | Web application testing             |
-| Hashcat  | Password security testing           |
+| Kali Linux  | Security testing environment           |
 | pdfcrack | PDF password recovery               |
 
 ⚙️ **Penetration Testing Activities**
@@ -82,6 +82,8 @@ Protected laboratory-report PDFs were assessed to evaluate the strength of their
 👤 **Author**
 
 **Anoop Gangadharan**
+
+https://lnkd.in/p/gySDDVt8
 
 Cybersecurity Learner | Offensive Security & VAPT
 
